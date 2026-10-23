@@ -1,4 +1,4 @@
-# Python project
+# Python project 💢
 ## What you need
 
 - [Python 3](https://www.python.org/downloads/) (3.8 or newer)
