@@ -15,5 +15,6 @@ requirements.txt   optional third-party packages
 Open a terminal in this folder and run:
 
 ```sh
-python3 main.py      # on Windows: python main.py
+python3 main.py      # on Mac
+python main.py       # on Windows
 ```
