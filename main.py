@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 x = np.linspace(0, 4 * np.pi, 240)
 
-plt.figure("Matplotlib Sample")
+plt.figure("Graph using Matplot")
 plt.plot(x, np.sin(x), label="sin(x)")
 plt.plot(x, np.cos(x), label="cos(x)")
 plt.title("Trigonometric Functions")
