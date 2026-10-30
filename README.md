@@ -37,5 +37,5 @@ Make sure you have **Python 3** installed on your system. No external package in
 ### Steps to Run:
 1. Clone this repository or download the source code:
    ```bash
-   git clone [https://github.com/your-username/cipher-matrix-studio.git](https://github.com/your-username/cipher-matrix-studio.git)
+   git clone [https://github.com/pixelyric/cipher-matrix-studio.git](https://github.com/pixelyric/cipher-matrix-studio.git)
    cd cipher-matrix-studio
